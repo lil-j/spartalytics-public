@@ -1,4 +1,4 @@
-# Spartalytics
+# What's goin on
 
 Created using React, Next, and Express, this website streamlines the process of showing the Skyline High School Robotics team members valuable data.
 
